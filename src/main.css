@@ -88,11 +88,10 @@ body {
 }
 
 .navigation__tab.Selected{
-  background: rgba(133, 133, 133, 0.3);
-
+  text-decoration: underline;
 }
 
 .navigation__tab:hover {
   cursor: pointer;
-  text-decoration: underline;
+
 }
